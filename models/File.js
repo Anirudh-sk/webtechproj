@@ -8,7 +8,7 @@ const File= new mongoose.Schema({
     originalName:{
         type: String,
         required :true
-    },
+    }, 
     password:{
         type: String,
     },
